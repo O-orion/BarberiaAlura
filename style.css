@@ -1,0 +1,48 @@
+
+#banner{
+    width: 100%;
+}
+.principal{
+    background-color: #CCCCCC;
+    padding: 30px;
+}
+p{
+    text-align: center;
+   
+}
+.titulo-principal{
+    padding-left: 20px;
+}
+.titulo-centralizado{
+    text-align: center;
+    /*background-color: #CCCCCC ; Cor usa HEXDECIMAL*/
+}
+
+p em strong{ /* Não se usa ',' apenas espaços para aplica o css através da sua estrutura*/
+    color: red
+}
+
+#txt{
+    font-size: 20px;
+}
+
+.items{
+    font-style: italic; /*Estamos dizendo que essse texto tem estilo italico */
+}
+.beneficios{
+    background-color: white;
+    padding: 20px;
+}
+
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.imagem-beneficios{
+    width: 50%;
+    vertical-align: top;
+}
+
